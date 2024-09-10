@@ -58,11 +58,15 @@ pip install -r requirements.txt
 
 1. **Run the project:**
 
-   Provide instructions on how to run the project. For example:
-
+- On Windows:
 ```bash
 python main.py
 ```
+- On macOS and Linux:
+```bash
+python3 main.py
+```
+
 
 ## Contributing
 
